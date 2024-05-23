@@ -32,10 +32,7 @@
     <img src="https://skillicons.dev/icons?i=ps,xd,figma,python,pytorch,anaconda,tensorflow,vscode,github,dotnet" /><br>
 </div>
 
-<br/>
-<h3 align="left">Support:</h3>
-<p ><a href="https://www.buymeacoffee.com/aninxya07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="135" alt="aninxya07" /></a></p><br><br>
-<br/>
+</br>
 
 <h3 align="left">   Music taste💚 :</h3>
 <br/>
