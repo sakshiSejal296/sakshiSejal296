@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA & ML**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aninxya07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://aninxya07.github.io/Portfolio/](https://sakshisejal296.github.io/Portfolio/))
 
 - 💬 Ask me about **Java, DSA, Python, AI**
 
