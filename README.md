@@ -19,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-priya-878b19258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anindyadolui" height="30" width="40" /></a>
-<a href="https://fb.com/anindya-dolui-100086784511653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anindya-dolui-100086784511653" height="30" width="45" /></a>
 <a href="https://instagram.com/_.sezz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aninxya.07" height="30" width="36" /></a>
 <a href="https://www.leetcode.com/_sezz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aninxya07" height="30" width="40" /></a>
 </p>
@@ -33,15 +32,15 @@
 
 </br>
 
-<h3 align="left">   Music taste💚 :</h3>
-<br/>
+<!-- <h3 align="left">   Music taste💚 :</h3>
+<br/> -->
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" /> -->
-<div align="left">
+<!-- <div align="left">
   <a href="https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knnvoet6ju34ciqomm2m2x4zk4?si=sv0S5m8WQLizoZ8SjuSiJg&count=3" alt="Spotify recently played" />
   </a>
-</div>
-<br/>
+</div> -->
+<br/> 
 
 <h3 align="left">🔥   My Stats :</h3>
 <br/>
