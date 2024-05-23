@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aninxya07.github.io/Portfolio/)
 
-- 💬 Ask me about **C++, Figma, Tailwind, Python**
+- 💬 Ask me about **Java, DSA, Python, AI**
 
 - 📫 Reach me by sending an [email](mailto:aninxya07@gmail.com)
 
-- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/anindyadolui/)
+- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/sakshi-priya-878b19258/)
 
 - ⚡ Fun fact: **Chai tastes way better than Coffee, No caps!**
 
