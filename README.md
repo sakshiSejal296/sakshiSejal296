@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, DSA, Python, AI**
 
-- 📫 Reach me by sending an [email](mailto:aninxya07@gmail.com)
+- 📫 Reach me by sending an [email](mailto:sejalsakshi29606@gmail.com)
 
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/sakshi-priya-878b19258/)
 
