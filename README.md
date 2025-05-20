@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A young-dumb 🤓 ML enthusiast from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 web dev enthusiast from India 🇮🇳</h3>
 <br/>
 <img align="right" width="320" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiSejal296&label=Profile%20views&color=ff69b4&style=flat" alt="sakshiSejal296" /> </p>
 
-- 🌱 I’m currently learning **DSA & ML**
+- 🌱 I’m currently learning **DSA & WEB dev**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sakshisejal296.github.io/Portfolio/)
 
-- 💬 Ask me about **Java, DSA, Python, AI**
+- 💬 Ask me about **Java, DSA, JS**
 
-- 📫 Reach me by sending an [email](mailto:sejalsakshi29606@gmail.com)
+- 📫 Reach me by sending an [email](mailto:sakszipriya29@gmail.com)
 
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/sakshi-priya-878b19258/)
 
@@ -26,9 +26,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,java,git,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=figma,python,pytorch,anaconda,tensorflow,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,postman,vscode" /><br>
 </div>
 
 </br>
