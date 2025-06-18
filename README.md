@@ -38,6 +38,7 @@
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cn5nqorrixlwikwa372aegnez4" /> -->
 <!-- <div align="left">
   <a href="https://open.spotify.com/user/31cn5nqorrixlwikwa372aegnez4">
+
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knnvoet6ju34ciqomm2m2x4zk4?si=sv0S5m8WQLizoZ8SjuSiJg&count=3" alt="Spotify recently played" />
   </a>
 </div> -->
@@ -65,5 +66,12 @@
         alt="github contribution grid snake animation"
         src="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
     </picture>
+      <br/><br/>
+    <h2>🚀 Deployed Projects 🚀</h2>
+    <ul>
+        <li><a href="https://sakshisejal296.github.io/wardrobe-genie/" target="_blank">🌐 WARDROBE-GENIE</a> - A smart virtual wardrobe assistant that helps users organize outfits, get personalized styling suggestions, and plan looks based on occasion, weather, or mood.</li>
+        <li><a href="https://sakshisejal296.github.io/cast_o_weather/" target="_blank">🌐 cast-o-weather </a> -  A sleek and responsive web app that provides real-time weather updates, 5-day forecasts, and search history using the OpenWeatherMap API.</li>
+        
+    </ul>
 </div>
 
