@@ -44,7 +44,7 @@
 </div> -->
 <br/> 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 <br/>
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakshiSejal296&theme=dracula&border_radius=5.6&card_width=320" alt="GitHub Streak" height="230" align="left"/>
