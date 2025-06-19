@@ -48,8 +48,8 @@
 <br/>
 ## 📊 My LeetCode Stats
 
-<!--START_SECTION:leetcode-stats-->
-<!--END_SECTION:leetcode-stats-->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sakshisejal296?theme=dark&font=Karma&border=true)](https://leetcode.com/sakshisejal296/)
+
 
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakshiSejal296&theme=dracula&border_radius=5.6&card_width=320" alt="GitHub Streak" height="230" align="left"/>
