@@ -55,19 +55,17 @@
 <div align="center">
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   <h1>🐍 My Contributions 🐍</h1>
+
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshiSejal296/sakshiSejal296/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshiSejal296/sakshiSejal296/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakshiSejal296/sakshiSejal296/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
       <br/><br/>
+      <div>
     <h2>🚀 Deployed Projects 🚀</h2>
     <ul>
         <li><a href="https://sakshisejal296.github.io/wardrobe-genie/" target="_blank">🌐 WARDROBE-GENIE</a> - A smart virtual wardrobe assistant that helps users organize outfits, get personalized styling suggestions, and plan looks based on occasion, weather, or mood.</li>
