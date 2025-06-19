@@ -64,13 +64,20 @@
 </picture>
 </div>
 
-      <br/><br/>
-      <div>
-    <h2>🚀 Deployed Projects 🚀</h2>
-    <ul>
-        <li><a href="https://sakshisejal296.github.io/wardrobe-genie/" target="_blank">🌐 WARDROBE-GENIE</a> - A smart virtual wardrobe assistant that helps users organize outfits, get personalized styling suggestions, and plan looks based on occasion, weather, or mood.</li>
-        <li><a href="https://sakshisejal296.github.io/cast_o_weather/" target="_blank">🌐 cast-o-weather </a> -  A sleek and responsive web app that provides real-time weather updates, 5-day forecasts, and search history using the OpenWeatherMap API.</li>
-        
-    </ul>
-</div>
+    ## 🚀 Deployed Projects 🚀
+
+### 🌐 [WARDROBE-GENIE](https://sakshisejal296.github.io/wardrobe-genie/)
+🧥 A smart virtual wardrobe assistant that helps users:
+- Organize outfits
+- Get personalized styling suggestions
+- Plan looks based on occasion, weather, or mood
+
+---
+
+### 🌐 [cast-o-weather](https://sakshisejal296.github.io/cast_o_weather/)
+🌦️ A sleek and responsive web app that:
+- Provides real-time weather updates
+- Displays 5-day forecasts
+- Stores search history using OpenWeatherMap API
+
 
