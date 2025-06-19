@@ -1,0 +1,24 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Runs every day at 11:30 AM IST
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: LeetCode Readme Update
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate LeetCode Stats
+        uses: anuraghazra/leetcode-stats-readme@master
+        with:
+          username: _sezz06
+
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update LeetCode stats"
