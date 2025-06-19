@@ -46,6 +46,11 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 <br/>
+## 📊 My LeetCode Stats
+
+<!--START_SECTION:leetcode-stats-->
+<!--END_SECTION:leetcode-stats-->
+
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sakshiSejal296&theme=dracula&border_radius=5.6&card_width=320" alt="GitHub Streak" height="230" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aninxya07&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=5&theme=dracula&hide_border=false" height="230" alt="languages graph" align="right"/>
