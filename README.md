@@ -46,9 +46,9 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 <br/>
-## 📊 My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sakshisejal296?theme=dark&font=Karma&border=true)](https://leetcode.com/sakshisejal296/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/_sezz06?theme=dark&font=Karma&border=true)](https://leetcode.com/_sezz06/)
 
 
 <div align="center">
