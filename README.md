@@ -54,18 +54,19 @@
 
 <div align="center">
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-    <h1>🐍 My Contributions 🐍</h1>
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
-    </picture>
+  <h1>🐍 My Contributions 🐍</h1>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sakshiSejal296/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
       <br/><br/>
     <h2>🚀 Deployed Projects 🚀</h2>
     <ul>
